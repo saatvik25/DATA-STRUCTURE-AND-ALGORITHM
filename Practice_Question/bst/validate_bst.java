@@ -31,3 +31,5 @@ class Solution {
         }
     }
 }
+
+//o(N)
