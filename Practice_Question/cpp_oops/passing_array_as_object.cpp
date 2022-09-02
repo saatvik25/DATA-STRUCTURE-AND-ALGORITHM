@@ -53,5 +53,5 @@ int main(){
     c3.complexsum(c1,c2);   // pass object c1,c2
     c3.getdata();
     
-}
+
 
