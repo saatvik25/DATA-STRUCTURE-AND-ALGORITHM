@@ -1,0 +1,19 @@
+classes -> are basic template for creating objects 
+objects -> basic run time entities
+encapsulation -> wrapping data and function into single unit
+data abstraction -> showing only essential information
+inheritance -> properties of one class can inherits into other
+polymorphim-> ability to take more than one form` ex function overloading
+dynamic binding -> code which will execute is not known until the program runs 
+
+message passing -> object.messaage(information) call format 
+ex obj.func("hello");
+
+
+typedef is used to change  name of any data type but in cPP is not mandatoryto write typedef
+
+
+exit(0) -> Exit Success is indicated by exit(0) statement which means successful termination of the program
+
+
+
