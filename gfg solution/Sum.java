@@ -15,6 +15,6 @@ int findSum(int arr[], int n) {
             
         }
     
-        return sum;
+        return sum ;
     }
 }
