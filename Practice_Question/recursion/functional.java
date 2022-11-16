@@ -14,4 +14,4 @@ public class Main
 	    }
       return n+ func(n-1);
 	    	}
-}
+
