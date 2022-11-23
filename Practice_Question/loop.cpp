@@ -3,7 +3,7 @@
 
 int main() {
     // Complete the code.
-    string num[11] = { "one", "two", "three", "four", "five", "six", "seven", "eight","nine","even","odd"};
+    string num[11] = { "one", "two", "three", "four", "five", "six", "seven","eight","nine","even","odd"};
 int i,a,b;
 cin>>a>>b;
 for(int i =a;i<=b;i++){
