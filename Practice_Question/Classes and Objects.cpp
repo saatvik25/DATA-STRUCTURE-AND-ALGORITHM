@@ -14,4 +14,4 @@ class Student {
     int calculateTotalScore() {
         return totalScore;
     }   
-};
+}
