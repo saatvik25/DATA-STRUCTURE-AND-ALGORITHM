@@ -2,7 +2,8 @@
 
 
 
-class Solution {
+
+lass Solution {
     public int maxSubArray(int[] arr) {
         int maxsum = arr[0];
       int  currsum = maxsum;
