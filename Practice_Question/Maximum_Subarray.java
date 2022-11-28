@@ -1,8 +1,6 @@
 //https://leetcode.com/problems/maximum-subarray/
 
 
-
-
 lass Solution {
     public int maxSubArray(int[] arr) {
         int maxsum = arr[0];
