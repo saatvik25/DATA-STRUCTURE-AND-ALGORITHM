@@ -18,5 +18,5 @@ public:
         else{
             return ma-mi;
         }
-    }
+    
 };
