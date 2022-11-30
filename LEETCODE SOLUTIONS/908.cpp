@@ -19,4 +19,4 @@ public:
             return ma-mi;
         }
     }
-};
+};.
