@@ -34,7 +34,7 @@ class Solution
                 h--;
                 break;
             }
-            
+            ]
         }
     }
 }
