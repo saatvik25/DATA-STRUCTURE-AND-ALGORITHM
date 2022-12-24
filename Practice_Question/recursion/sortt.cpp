@@ -3,6 +3,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
+
 int partition(int arr[], int s, int e)
 {
     int pivot = arr[0];
