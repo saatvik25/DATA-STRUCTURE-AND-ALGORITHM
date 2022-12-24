@@ -47,6 +47,7 @@ void quicksort(int arr[], int s, int e)
         return;
 
     int p = partition(arr, s, e);
+    
 
     // left sort
     quicksort(arr, s, p - 1);
