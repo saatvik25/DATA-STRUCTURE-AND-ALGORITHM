@@ -16,6 +16,7 @@ public:
         // return ans;
 
         int arr[46]; //as constrain is less than 45
+        
         arr[0]= 0;
         arr[1] = 1;
         arr[2] = 2;
