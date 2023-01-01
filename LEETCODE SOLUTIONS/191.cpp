@@ -11,6 +11,7 @@ public:
             if(nums[i]<min)
                 min = nums[i];
         }
+        
        for(int i=0;i<nums.size();i++){
           ans += nums[i] - min;
        }
