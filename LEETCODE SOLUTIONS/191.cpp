@@ -16,5 +16,6 @@ public:
           ans += nums[i] - min;
        }
         return ans;
+        
     }
 };
