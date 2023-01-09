@@ -7,6 +7,7 @@ public:
         int len1 = num1.length()-1;
         int len2 = num2.length()-1;
         int sum =0;
+        
         int lastdigit ;
         int carry=0;
         
