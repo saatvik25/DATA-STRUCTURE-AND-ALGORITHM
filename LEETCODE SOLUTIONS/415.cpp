@@ -30,8 +30,8 @@ public:
             ans.push_back(lastdigit+48);
 
         }
-            if(carry)
-        {
+        
+            if(carry){
             ans.push_back(carry+48);
         }
         reverse(ans.begin(),ans.end());
