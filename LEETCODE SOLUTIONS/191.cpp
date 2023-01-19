@@ -3,6 +3,7 @@
 
 class Solution {
 public:
+    
     int minMoves(vector<int>& nums) {
         int min = nums[0];
         int ans =0;
