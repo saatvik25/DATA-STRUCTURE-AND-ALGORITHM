@@ -1,7 +1,6 @@
 # DATA-STRUCTURE-AND-ALGORITHM
 
 
-.
 
 
 
