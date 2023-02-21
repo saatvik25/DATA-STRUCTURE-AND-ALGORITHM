@@ -4,6 +4,7 @@
 SinglyLinkedListNode* deleteNode(SinglyLinkedListNode* llist, int position) {
     
 if(position == 0){
+    
     llist = llist->next;
     return llist;
 }
