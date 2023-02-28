@@ -10,6 +10,7 @@ public:
         if(str1+str2 != str2+str1){
             return "";
         }
+        
         // finf gcd of length and then print 0 to gcdlen
         int gcdlen = gcd(len1,len2);
         string ans = str1.substr(0,gcdlen);
