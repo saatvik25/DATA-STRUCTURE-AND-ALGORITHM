@@ -8,6 +8,7 @@ if(position == 0){
     llist = llist->next;
     return llist;
 }
+    
 SinglyLinkedListNode* temp = llist;
 for(int i=0;i<position-1;i++){
 temp = temp->next;
