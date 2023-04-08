@@ -9,6 +9,7 @@ public:
         // priority_queue <int, vector<int>, greater<int>> gq;
         // for min heap we use this
         priority_queue <int ,vector<int>,greater<int> > pq(nums.begin(), nums.end());
+        
         while(k--){
             int x = pq.top();
             pq.pop();
