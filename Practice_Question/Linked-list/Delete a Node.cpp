@@ -11,7 +11,8 @@ if(position == 0){
     
 SinglyLinkedListNode* temp = llist;
 for(int i=0;i<position-1;i++){
-temp = temp->next;
+temp = tem
+p->next;
 }
 temp->next = temp->next->next;
 return llist;
