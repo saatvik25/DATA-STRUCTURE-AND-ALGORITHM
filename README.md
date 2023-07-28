@@ -6,6 +6,7 @@ This repository contains implementations of various data structures and algorith
 
 ## Table of Contents
 
+
 - [Introduction](#introduction)
 - [Languages](#languages)
 - [Data Structures](#data-structures)
