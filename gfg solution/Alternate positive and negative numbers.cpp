@@ -5,6 +5,7 @@
 class Solution{
 public:
 
+
 	void rearrange(int arr[], int n) {
 	    vector<int>p;
 	    vector<int>nee;
