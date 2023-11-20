@@ -10,7 +10,6 @@ This repository contains implementations of various data structures and algorith
 - [License](#license)
 ## Introduction
 Data structures and algorithms are fundamental concepts in computer science and play a vital role in solving complex problems efficiently. This repository aims to provide clear and concise implementations of popular data structures and algorithms, along with explanations and examples to aid understanding.
-
 ## Languages
 Currently, the repository supports implementations in the following programming languages:
 
