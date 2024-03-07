@@ -8,6 +8,7 @@ public:
         int cnt =0;
         while(i<len){
             
+            
             if(s[i] == 'R'){
                 rcnt++;
                 
