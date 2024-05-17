@@ -26,7 +26,6 @@ The following data structures are currently implemented:
 - Heap
 - Hash Table
 - Graph
-
 ## Algorithms
 
 The repository covers various algorithms, including:
