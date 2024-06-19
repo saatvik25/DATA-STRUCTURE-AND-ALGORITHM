@@ -7,6 +7,7 @@ public:
         vector<int> ans;
         for(int i=0;i<arr.size();i++){
             if(arr[i]==0){
+
                 
                 ans.push_back(0);
                 ans.push_back(0);
