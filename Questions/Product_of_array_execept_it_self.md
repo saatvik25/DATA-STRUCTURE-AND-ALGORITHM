@@ -47,10 +47,10 @@ However, this approach has a significant limitation. If the total product of the
 
 we store as 
 left 1 2 3 4
-     1 there is no element left of 1 so move,
-     2 there is 1 left of 2 so 1,
-     3 left = 2*1,
-     4 left is 3*2*1,
+     1 ,there as ,their id no element left of 1 so move,
+     2 ,there is 1 left of 2 so 1,
+     3 ,left = 2*1,
+     4 ,left is 3*2*1,
 
 same with right
 
