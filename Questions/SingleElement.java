@@ -83,19 +83,3 @@ Now:
 - `left = 6`, `right = 6` (termination condition)
 - Return: `nums[left] = 2`
 
-#### Example 2:
-Input: `nums = [3,3,7,7,10,11,11]`
-
-- Start: `left = 0`, `right = 6`
-- Calculate `mid`: `mid = 3` (odd, so `mid--` to make it even)
-- Check: `nums[mid] == nums[mid + 1]` (7 == 7)
-- Move to the right half: `left = mid + 2 = 4`
-
-Now:
-- `left = 4`, `right = 6`
-- Calculate `mid`: `mid = 5` (odd, so `mid--` to make it even)
-- Check: `nums[mid] != nums[mid + 1]` (10 != 11)
-- Move to the left half: `right = mid = 4`
-
-Now:
-- `left =
