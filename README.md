@@ -14,7 +14,6 @@ Data structures and algorithms are fundamental concepts in computer science and 
 Currently, the repository supports implementations in the following programming languages:
 - C++
 - Java
-- 
 - Python
 ## Data Structures
 The following data structures are currently implemented:
