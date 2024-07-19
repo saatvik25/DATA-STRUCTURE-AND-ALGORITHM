@@ -28,7 +28,8 @@ int Solution::solve(vector<int> &A, int B) {
     
     if(mp.find(xorr^B)!=mp.end())
         count += mp[xorr^B] ;
-    
+
+        
     mp[xorr] +=1;
     
     }
