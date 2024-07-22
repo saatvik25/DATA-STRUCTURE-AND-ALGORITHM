@@ -12,7 +12,6 @@ To solve the "Gas Station" problem, we need to determine the starting gas statio
 3. After the loop, if the total gas is greater than or equal to the total cost, return the starting index; otherwise, return -1.
 
 ### C++ Code:
-
 ```cpp
 #include <vector>
 using namespace std;
