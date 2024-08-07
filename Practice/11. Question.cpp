@@ -5,7 +5,6 @@ Note:
 3.Computed values lie within the integer range.
 
 
-
 #include <iostream>
 #include<bits/stdc++.h>
 
